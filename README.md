@@ -388,7 +388,7 @@ Este laboratório demonstra, na prática, o ciclo completo de trabalho de um **D
 
 ## 👤 Autor
 
-**[Seu Nome Aqui]**
+**[Enzo Marin Perego]**
 Analista de Segurança da Informação | Blue Team | Detection Engineering
 
 [LinkedIn](#) • [GitHub](#) • [Portfólio](#)
