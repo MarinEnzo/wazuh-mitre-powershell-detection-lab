@@ -1,0 +1,20 @@
+<!--
+  Custom Wazuh rule developed for a controlled Detection Engineering lab.
+  MITRE ATT&CK: T1059.001 - PowerShell
+-->
+
+<group name="windows,powershell,mitre_lab,">
+
+  <rule id="100100" level="8">
+    <if_sid>92027</if_sid>
+
+    <description>MITRE LAB: PowerShell process execution detected</description>
+
+    <mitre>
+      <id>T1059.001</id>
+    </mitre>
+
+    <group>execution,powershell_detection,mitre_t1059_001,</group>
+  </rule>
+
+</group>
